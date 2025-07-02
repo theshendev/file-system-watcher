@@ -27,10 +27,8 @@ A PHP-based file system watcher for Laravel 11.x that monitors the `storage/app/
  
  2. **Install Dependencies**:
 
-   ```bash
-   composer install
-   
-    ```
+        composer install
+
     
   ## Usage
    Start the file system watcher to monitor storage/app/watched
