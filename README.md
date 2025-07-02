@@ -32,11 +32,9 @@ A PHP-based file system watcher for Laravel 11.x that monitors the `storage/app/
    
     ```
     
-    ## Usage
-    Start the file system watcher to monitor storage/app/watched
-    
-      ```bash
+  ## Usage
+   Start the file system watcher to monitor storage/app/watched
+
     php artisan watch:files
-      ```
 
 
